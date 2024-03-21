@@ -1,0 +1,8 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: sample-split-monorepo-target-only
+spec:
+  type: url
+  owner: dhrumit
+  lifecycle: experimental
