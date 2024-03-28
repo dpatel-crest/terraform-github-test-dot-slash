@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: sample-split-monorepo-target-only
+  name: test-dot-slash-http
 spec:
   type: url
   owner: dhrumit
